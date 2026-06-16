@@ -16,9 +16,9 @@ The core problem addressed by CEL is that a direct answer pipeline is often too 
 
 CEL introduces a bounded internal layer that operates between recalled context and final synthesis. It does not replace ordinary reasoning. Instead, it selectively expands the reasoning space through a controlled sequence of strategies: context sufficiency checks, intent clarification, frame switching, contradiction detection, hypothesis generation, self-model tension detection, question generation, analogy, and late-stage bisociation.
 
-The output of CEL is not automatically exposed to the user. CEL is internal by default. Its useful consequences may become trace records, agenda items, hypotheses, contradictions, durable questions, MindCells, or artifact candidates, depending on existing [Brownyx](https://brownyx.com) runtime boundaries.
+The output of CEL is not automatically exposed to the user. CEL is internal by default. Its outputs map into existing runtime structures depending on boundaries: trace records, agenda items, hypotheses, contradictions, durable questions, MindCells, or artifact candidates.
 
-CEL should be understood as an engineering pattern for making synthetic mind runtimes less flat, less reactive, and more inspectably developmental, while remaining independent of any claim about consciousness.
+CEL is an engineering pattern that makes persistent synthetic mind runtimes less reactive and more inspectable, without claiming anything about consciousness.
 
 ---
 
@@ -162,15 +162,7 @@ CEL is not:
 
 CEL is valuable because it makes internal cognitive expansion inspectable.
 
-Instead of hiding all reasoning inside a single model output, CEL encourages structured records:
-
-- what triggered expansion;
-- which strategies were used;
-- what was persisted;
-- what was rejected;
-- what remained internal;
-- what became agenda work;
-- what synthesis was accepted.
+Instead of hiding all reasoning inside a single model output, CEL produces structured records of what triggered expansion, which strategies were used, what was persisted or rejected, and what became agenda work.
 
 This makes [Brownyx](https://brownyx.com) more suitable as a research runtime.
 
