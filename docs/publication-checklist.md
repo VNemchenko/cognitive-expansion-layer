@@ -4,7 +4,7 @@ Use this checklist before making the repository public.
 
 ## Repository
 
-- [ ] Create public repository: `brownyx-cognitive-expansion-layer`
+- [ ] Create public repository: `cognitive-expansion-layer`
 - [ ] Add `README.md`
 - [ ] Add `WHITEPAPER.md`
 - [ ] Add `LICENSE.md`

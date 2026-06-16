@@ -7,7 +7,7 @@ authors:
 year: 2026
 version: "0.1.0"
 license: "CC-BY-4.0"
-repository-code: "https://github.com/VNemchenko/brownyx-cognitive-expansion-layer"
+repository-code: "https://github.com/VNemchenko/cognitive-expansion-layer"
 keywords:
   - Brownyx
   - Cognitive Expansion Layer
