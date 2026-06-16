@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or reference Brownyx Cognitive Expansion Layer, please cite it as below."
+title: "Brownyx Cognitive Expansion Layer: A Bounded Architecture for Expanding Synthetic Mind Reasoning"
+authors:
+  - family-names: "Nemchenko"
+    given-names: "Vitaly"
+year: 2026
+version: "0.1.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/VNemchenko/brownyx-cognitive-expansion-layer"
+keywords:
+  - Brownyx
+  - Cognitive Expansion Layer
+  - synthetic mind
+  - cognitive architecture
+  - metacognition
+  - frame switching
+  - contradiction detection
+  - hypothesis generation
+  - bisociation
+abstract: "Brownyx Cognitive Expansion Layer (Brownyx CEL) is a bounded internal architecture layer for persistent synthetic mind runtimes. It expands reasoning beyond direct answers through context sufficiency checks, frame switching, contradiction detection, hypothesis generation, self-model tension detection, question generation, analogy, late-stage bisociation, and clear synthesis."

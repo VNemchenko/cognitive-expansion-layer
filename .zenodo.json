@@ -1,0 +1,23 @@
+{
+  "title": "Brownyx Cognitive Expansion Layer: A Bounded Architecture for Expanding Synthetic Mind Reasoning",
+  "creators": [
+    {
+      "name": "Vitaly Nemchenko",
+      "affiliation": "Brownyx"
+    }
+  ],
+  "description": "Documentation-only defensive publication for Brownyx Cognitive Expansion Layer (Brownyx CEL), a bounded internal architecture layer for persistent synthetic mind runtimes.",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Brownyx",
+    "Cognitive Expansion Layer",
+    "synthetic mind",
+    "cognitive architecture",
+    "metacognition",
+    "bisociation",
+    "hypothesis generation",
+    "frame switching"
+  ],
+  "upload_type": "publication",
+  "publication_type": "technicalnote"
+}

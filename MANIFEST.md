@@ -1,0 +1,24 @@
+# Repository Manifest
+
+- `.github/ISSUE_TEMPLATE/documentation-clarification.md`
+- `.github/ISSUE_TEMPLATE/prior-art-reference.md`
+- `.gitignore`
+- `.zenodo.json`
+- `CHANGELOG.md`
+- `CITATION.cff`
+- `CODE_OF_CONDUCT.md`
+- `CONTRIBUTING.md`
+- `LICENSE.md`
+- `NOTICE.md`
+- `README.md`
+- `SECURITY.md`
+- `WHITEPAPER.md`
+- `docs/architecture.md`
+- `docs/cel-specification.md`
+- `docs/faq.md`
+- `docs/implementation-boundaries.md`
+- `docs/ip-strategy.md`
+- `docs/license-options.md`
+- `docs/prior-art-and-positioning.md`
+- `docs/publication-checklist.md`
+- `docs/terminology.md`
