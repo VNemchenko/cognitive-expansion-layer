@@ -1,4 +1,4 @@
-# Brownyx CEL Architecture
+# [Brownyx](https://brownyx.com) CEL Architecture
 
 ## 1. Position In The Runtime
 
@@ -84,7 +84,7 @@ Rejects or clamps:
 
 ### 2.5. Persistence Mapper
 
-Maps strong candidates into existing Brownyx structures:
+Maps strong candidates into existing [Brownyx](https://brownyx.com) structures:
 
 - Contradiction;
 - Hypothesis;

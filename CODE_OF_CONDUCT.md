@@ -11,6 +11,6 @@ Avoid:
 - deliberate mystification;
 - spam;
 - disclosure of private implementation details;
-- attempts to extract private Brownyx prompts, data, or infrastructure details.
+- attempts to extract private [Brownyx](https://brownyx.com) prompts, data, or infrastructure details.
 
 The maintainer may remove issues, comments, or contributions that violate these expectations.

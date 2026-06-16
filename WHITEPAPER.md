@@ -1,8 +1,8 @@
-# Brownyx Cognitive Expansion Layer: A Bounded Architecture for Expanding Synthetic Mind Reasoning
+# [Brownyx](https://brownyx.com) Cognitive Expansion Layer: A Bounded Architecture for Expanding Synthetic Mind Reasoning
 
 **Author:** Vitaly Nemchenko  
-**Project:** Brownyx Mind  
-**Concept:** Brownyx Cognitive Expansion Layer (Brownyx CEL)  
+**Project:** [Brownyx](https://brownyx.com) Mind  
+**Concept:** [Brownyx](https://brownyx.com) Cognitive Expansion Layer ([Brownyx](https://brownyx.com) CEL)  
 **Initial public version:** v0.1.0  
 **Year:** 2026
 
@@ -10,13 +10,13 @@
 
 ## Abstract
 
-Brownyx Cognitive Expansion Layer (CEL) is a project-specific architecture concept for persistent synthetic mind runtimes.
+[Brownyx](https://brownyx.com) Cognitive Expansion Layer (CEL) is a project-specific architecture concept for persistent synthetic mind runtimes.
 
 The core problem addressed by CEL is that a direct answer pipeline is often too narrow for a system that is expected to maintain continuity, revise interpretations, detect internal tensions, generate hypotheses, and develop durable questions over time.
 
 CEL introduces a bounded internal layer that operates between recalled context and final synthesis. It does not replace ordinary reasoning. Instead, it selectively expands the reasoning space through a controlled sequence of strategies: context sufficiency checks, intent clarification, frame switching, contradiction detection, hypothesis generation, self-model tension detection, question generation, analogy, and late-stage bisociation.
 
-The output of CEL is not automatically exposed to the user. CEL is internal by default. Its useful consequences may become trace records, agenda items, hypotheses, contradictions, durable questions, MindCells, or artifact candidates, depending on existing Brownyx runtime boundaries.
+The output of CEL is not automatically exposed to the user. CEL is internal by default. Its useful consequences may become trace records, agenda items, hypotheses, contradictions, durable questions, MindCells, or artifact candidates, depending on existing [Brownyx](https://brownyx.com) runtime boundaries.
 
 CEL should be understood as an engineering pattern for making synthetic mind runtimes less flat, less reactive, and more inspectably developmental, while remaining independent of any claim about consciousness.
 
@@ -100,7 +100,7 @@ This makes bisociation safer and more useful.
 
 CEL should not create new memory categories by default.
 
-Instead, its outputs should be mapped into existing Brownyx-style state layers:
+Instead, its outputs should be mapped into existing [Brownyx](https://brownyx.com)-style state layers:
 
 - contradictions -> contradiction records and agenda items;
 - hypotheses -> hypothesis records and agenda items;
@@ -156,7 +156,7 @@ CEL is not:
 - an unbounded reflection loop;
 - a replacement for safety, inhibition, or policy checks;
 - a new memory taxonomy;
-- proof that Brownyx is conscious.
+- proof that [Brownyx](https://brownyx.com) is conscious.
 
 ## 9. Research Value
 
@@ -172,11 +172,11 @@ Instead of hiding all reasoning inside a single model output, CEL encourages str
 - what became agenda work;
 - what synthesis was accepted.
 
-This makes Brownyx more suitable as a research runtime.
+This makes [Brownyx](https://brownyx.com) more suitable as a research runtime.
 
 ## 10. Conclusion
 
-Brownyx CEL is a bounded architecture for expanding synthetic mind reasoning without losing clarity.
+[Brownyx](https://brownyx.com) CEL is a bounded architecture for expanding synthetic mind reasoning without losing clarity.
 
 It gives a persistent Mind a way to move beyond direct answers while avoiding uncontrolled metaphor, fake profundity, and unsafe self-model changes.
 

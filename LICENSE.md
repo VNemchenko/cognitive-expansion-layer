@@ -25,7 +25,7 @@ Licensed under CC BY 4.0.
 
 This repository is documentation-only.
 
-No license is granted to any private or production Brownyx source code, prompts, scoring rules, model routing, infrastructure, runtime data, or commercial implementation details.
+No license is granted to any private or production [Brownyx](https://brownyx.com) source code, prompts, scoring rules, model routing, infrastructure, runtime data, or commercial implementation details.
 
 If software code is later added to this repository, it must include a separate explicit software license.
 
@@ -33,10 +33,10 @@ If software code is later added to this repository, it must include a separate e
 
 The names and marks:
 
-- Brownyx
-- Brownyx Mind
-- Brownyx CEL
-- Brownyx Cognitive Expansion Layer
+- [Brownyx](https://brownyx.com)
+- [Brownyx](https://brownyx.com) Mind
+- [Brownyx](https://brownyx.com) CEL
+- [Brownyx](https://brownyx.com) Cognitive Expansion Layer
 
 are reserved by their owner except where applicable law says otherwise.
 

@@ -1,20 +1,20 @@
 # Terminology
 
-## Brownyx
+## [Brownyx](https://brownyx.com)
 
 A research runtime for persistent synthetic mind instances.
 
-## Brownyx Mind
+## [Brownyx](https://brownyx.com) Mind
 
-A persistent synthetic mind instance running inside Brownyx.
+A persistent synthetic mind instance running inside [Brownyx](https://brownyx.com).
 
 ## CEL
 
 Short for **Cognitive Expansion Layer**.
 
-## Brownyx CEL
+## [Brownyx](https://brownyx.com) CEL
 
-A project-specific bounded cognitive expansion architecture for Brownyx-style synthetic mind runtimes.
+A project-specific bounded cognitive expansion architecture for [Brownyx](https://brownyx.com)-style synthetic mind runtimes.
 
 ## Direct Reasoning
 
@@ -42,7 +42,7 @@ Creation of testable explanations or claims.
 
 ## Self-Model Tension
 
-A possible conflict between current evidence and the Mind’s durable identity, capability, limitation, or stable trait.
+A possible conflict between current evidence and the Mind's durable identity, capability, limitation, or stable trait.
 
 ## MindQuestion
 
@@ -54,7 +54,7 @@ A structural mapping from one domain to another.
 
 ## Bisociation
 
-A late-stage strategy that connects distant matrices of meaning. In Brownyx CEL, it must remain bounded, useful, and internal by default.
+A late-stage strategy that connects distant matrices of meaning. In [Brownyx](https://brownyx.com) CEL, it must remain bounded, useful, and internal by default.
 
 ## Synthesis
 

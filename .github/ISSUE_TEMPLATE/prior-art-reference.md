@@ -10,13 +10,13 @@ assignees: ""
 
 Provide the publication, project, concept, or architecture reference.
 
-## Relation to Brownyx CEL
+## Relation to [Brownyx](https://brownyx.com) CEL
 
 How is it related?
 
 ## Difference
 
-How does it differ from Brownyx CEL?
+How does it differ from [Brownyx](https://brownyx.com) CEL?
 
 ## Notes
 

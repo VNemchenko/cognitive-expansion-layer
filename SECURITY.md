@@ -1,6 +1,6 @@
 # Security Policy
 
-This repository is documentation-only and does not contain production Brownyx source code.
+This repository is documentation-only and does not contain production [Brownyx](https://brownyx.com) source code.
 
 ## Do Not Submit
 
@@ -24,4 +24,4 @@ If you notice accidental exposure of sensitive information, open a private commu
 
 This policy applies only to this documentation repository.
 
-Production Brownyx security issues should be reported through the private Brownyx project channels.
+Production [Brownyx](https://brownyx.com) security issues should be reported through the private [Brownyx](https://brownyx.com) project channels.

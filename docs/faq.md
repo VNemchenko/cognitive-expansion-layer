@@ -1,6 +1,6 @@
 # FAQ
 
-## Is Brownyx CEL a new AI model?
+## Is [Brownyx](https://brownyx.com) CEL a new AI model?
 
 No. CEL is an architecture layer, not a model.
 
@@ -34,14 +34,14 @@ A bisociation should influence user-facing output only when it produces a clear 
 
 Because memory pollution is dangerous for persistent systems.
 
-Brownyx should store different cognitive products in the correct state layers: memory, questions, hypotheses, contradictions, MindCells, artifacts, and traces.
+[Brownyx](https://brownyx.com) should store different cognitive products in the correct state layers: memory, questions, hypotheses, contradictions, MindCells, artifacts, and traces.
 
 ## Can other people implement CEL?
 
 This repository documents the concept publicly. See LICENSE.md for documentation rights and NOTICE.md for reserved rights.
 
-The production Brownyx implementation is not included.
+The production [Brownyx](https://brownyx.com) implementation is not included.
 
-## Can CEL be used outside Brownyx?
+## Can CEL be used outside [Brownyx](https://brownyx.com)?
 
-Conceptually, yes. CEL is described as a general architecture pattern, but the exact implementation here is Brownyx-oriented.
+Conceptually, yes. CEL is described as a general architecture pattern, but the exact implementation here is [Brownyx](https://brownyx.com)-oriented.

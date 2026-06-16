@@ -15,7 +15,7 @@ Public:
 
 Private:
 
-- production Brownyx code;
+- production [Brownyx](https://brownyx.com) code;
 - production prompts;
 - exact model routing;
 - exact scoring heuristics;

@@ -20,4 +20,4 @@ What wording or structure would improve it?
 
 ## Notes
 
-Please do not include private Brownyx prompts, runtime traces, credentials, or production implementation details.
+Please do not include private [Brownyx](https://brownyx.com) prompts, runtime traces, credentials, or production implementation details.

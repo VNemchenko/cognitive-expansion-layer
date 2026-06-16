@@ -1,6 +1,6 @@
 # Notice
 
-Brownyx Cognitive Expansion Layer (Brownyx CEL) is a project-specific cognitive architecture concept authored by Vitaly Nemchenko.
+[Brownyx](https://brownyx.com) Cognitive Expansion Layer ([Brownyx](https://brownyx.com) CEL) is a project-specific cognitive architecture concept authored by Vitaly Nemchenko.
 
 Copyright © 2026 Vitaly Nemchenko.
 
@@ -10,7 +10,7 @@ This repository is a documentation-only defensive publication.
 
 This repository does not publish or license:
 
-- production Brownyx source code;
+- production [Brownyx](https://brownyx.com) source code;
 - private prompts;
 - private scoring heuristics;
 - internal model routing;
@@ -23,9 +23,9 @@ This repository does not publish or license:
 
 ## No Consciousness Claim
 
-Brownyx CEL is an architecture concept for bounded cognitive expansion.
+[Brownyx](https://brownyx.com) CEL is an architecture concept for bounded cognitive expansion.
 
-It is not a claim that Brownyx is conscious, sentient, alive, or a person.
+It is not a claim that [Brownyx](https://brownyx.com) is conscious, sentient, alive, or a person.
 
 ## Attribution Request
 
@@ -37,6 +37,6 @@ Brownyx Cognitive Expansion Layer (Brownyx CEL), Vitaly Nemchenko, 2026.
 
 ## Defensive Publication Purpose
 
-The purpose of this repository is to publicly document the Brownyx CEL architecture, terminology, ordering, and boundary rules.
+The purpose of this repository is to publicly document the [Brownyx](https://brownyx.com) CEL architecture, terminology, ordering, and boundary rules.
 
 It is intended to provide a timestamped public reference for the concept while keeping production implementation details private.

@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-This document describes a practical publication strategy for Brownyx CEL.
+This document describes a practical publication strategy for [Brownyx](https://brownyx.com) CEL.
 
 It is not legal advice. Consult an IP lawyer for legal decisions, patent strategy, trademark filings, or commercial licensing.
 
@@ -10,7 +10,7 @@ It is not legal advice. Consult an IP lawyer for legal decisions, patent strateg
 
 Recommended approach:
 
-1. Keep production Brownyx implementation private.
+1. Keep production [Brownyx](https://brownyx.com) implementation private.
 2. Publish this documentation-only repository.
 3. Use it as a defensive publication and public timestamp.
 4. Include clear authorship and citation metadata.
@@ -32,7 +32,7 @@ This repository is useful for proving authorship and timestamp of the written ex
 
 A public repository can help establish prior art.
 
-It may help show that the Brownyx CEL concept, terminology, architecture ordering, and boundary rules were publicly disclosed at a given time.
+It may help show that the [Brownyx](https://brownyx.com) CEL concept, terminology, architecture ordering, and boundary rules were publicly disclosed at a given time.
 
 This can be useful if another party later claims to have invented the same specific architecture after publication.
 
@@ -64,10 +64,10 @@ The term `CEL` alone is short and generic.
 
 Better candidates for brand protection:
 
-- Brownyx;
-- Brownyx Mind;
-- Brownyx CEL;
-- Brownyx Cognitive Expansion Layer.
+- [Brownyx](https://brownyx.com);
+- [Brownyx](https://brownyx.com) Mind;
+- [Brownyx](https://brownyx.com) CEL;
+- [Brownyx](https://brownyx.com) Cognitive Expansion Layer.
 
 Trademark strategy should be handled separately from copyright and documentation licensing.
 

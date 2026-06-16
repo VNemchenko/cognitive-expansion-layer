@@ -14,7 +14,7 @@ Contributions may be accepted for:
 
 Contributions are not expected for:
 
-- production Brownyx code;
+- production [Brownyx](https://brownyx.com) code;
 - private prompt design;
 - scoring heuristics;
 - model routing;

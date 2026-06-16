@@ -46,7 +46,7 @@ Use this checklist before making the repository public.
 - [ ] Create GitHub release
 - [ ] Add release notes
 - [ ] Archive with Zenodo or OSF if DOI is desired
-- [ ] Store release ZIP and DOI in private Brownyx records
+- [ ] Store release ZIP and DOI in private [Brownyx](https://brownyx.com) records
 
 ## Suggested Release Title
 

@@ -1,13 +1,13 @@
-# Brownyx CEL Technical Specification
+# [Brownyx](https://brownyx.com) CEL Technical Specification
 
 ## 1. Name
 
-**Brownyx Cognitive Expansion Layer**  
-Short name: **Brownyx CEL**
+**[Brownyx](https://brownyx.com) Cognitive Expansion Layer**  
+Short name: **[Brownyx](https://brownyx.com) CEL**
 
 ## 2. Scope
 
-CEL is a bounded optional internal stage in the Brownyx cognitive cycle.
+CEL is a bounded optional internal stage in the [Brownyx](https://brownyx.com) cognitive cycle.
 
 It should run after recall/context assembly and before final response/action selection.
 
