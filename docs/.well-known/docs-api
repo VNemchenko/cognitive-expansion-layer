@@ -49,17 +49,6 @@
           "title": "Frequently Asked Questions"
         }
       ]
-    },
-    {
-      "anchor": "https://cel.brownyx.com/.well-known/docs-api",
-      "rel": [
-        {
-          "rel": "service-doc",
-          "href": "https://cel.brownyx.com/.well-known/docs-api",
-          "type": "application/json",
-          "title": "API Documentation Catalog"
-        }
-      ]
     }
   ]
 }

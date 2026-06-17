@@ -1,0 +1,13 @@
+/*
+  Link: </.well-known/api-catalog>; rel="api-catalog"
+  Link: </docs/api>; rel="service-doc"
+  Link: </llms.txt>; rel="describedby"; type="text/markdown"
+  Link: </cel-specification.md>; rel="service-doc"; type="text/markdown"
+  Link: </architecture.md>; rel="service-doc"; type="text/markdown"
+  Link: </faq.md>; rel="service-doc"; type="text/markdown"
+  Link: </.well-known/oauth-authorization-server.json>; rel="authorization"
+  Link: </.well-known/oauth-protected-resource.json>; rel="resource-metadata"
+  Link: </.well-known/openid-configuration.json>; rel="openid-configuration"
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin

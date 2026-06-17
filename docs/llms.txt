@@ -18,6 +18,12 @@ Brownyx CEL is a documentation-only defensive publication. It does not contain p
 - [Terminology](https://cel.brownyx.com/terminology.md): project-specific definitions
 - [FAQ](https://cel.brownyx.com/faq.md): frequently asked questions
 
+## Agent Discovery
+
+- [API Catalog](https://cel.brownyx.com/.well-known/api-catalog): machine-readable API catalog
+- [DNS-AID Configuration](https://cel.brownyx.com/.well-known/dns-aid-configuration.md): DNS-based agent discovery setup
+- [Docs API](https://cel.brownyx.com/.well-known/docs-api): documentation endpoint catalog
+
 ## Citation
 
 - [CITATION.cff](https://github.com/VNemchenko/cognitive-expansion-layer/blob/master/CITATION.cff): citation metadata

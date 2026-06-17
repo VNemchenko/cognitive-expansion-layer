@@ -25,11 +25,6 @@
           "href": "https://cel.brownyx.com/cel-specification.md",
           "type": "text/markdown",
           "title": "CEL Technical Specification"
-        },
-        {
-          "rel": "describedby",
-          "href": "https://cel.brownyx.com/cel-specification.md",
-          "type": "text/markdown"
         }
       ]
     },
@@ -52,6 +47,17 @@
           "href": "https://cel.brownyx.com/faq.md",
           "type": "text/markdown",
           "title": "Frequently Asked Questions"
+        }
+      ]
+    },
+    {
+      "anchor": "https://cel.brownyx.com/.well-known/docs-api",
+      "rel": [
+        {
+          "rel": "service-doc",
+          "href": "https://cel.brownyx.com/.well-known/docs-api",
+          "type": "application/json",
+          "title": "API Documentation Catalog"
         }
       ]
     }
