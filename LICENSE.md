@@ -17,7 +17,7 @@ You may share and adapt the documentation under the terms of CC BY 4.0, includin
 Recommended attribution:
 
 ```text
-Brownyx Cognitive Expansion Layer (Brownyx CEL), © 2026 Vitaly Nemchenko.
+Brownyx Cognitive Expansion Layer (Brownyx CEL), © 2026 Vitalii Nemchenko.
 Licensed under CC BY 4.0.
 ```
 

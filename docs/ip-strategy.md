@@ -95,7 +95,7 @@ Reference: GitHub Docs on repository licensing: https://docs.github.com/en/repos
 ## 10. Suggested Public Notice
 
 ```text
-Brownyx Cognitive Expansion Layer (Brownyx CEL) is a project-specific architecture concept by Vitaly Nemchenko.
+Brownyx Cognitive Expansion Layer (Brownyx CEL) is a project-specific architecture concept by Vitalii Nemchenko.
 
 This repository is a documentation-only defensive publication. It does not grant rights to production Brownyx source code, private prompts, trademarks, logos, infrastructure, or commercial implementation details.
 ```

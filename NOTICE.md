@@ -1,8 +1,8 @@
 # Notice
 
-[Brownyx](https://brownyx.com) Cognitive Expansion Layer ([Brownyx](https://brownyx.com) CEL) is a project-specific cognitive architecture concept authored by Vitaly Nemchenko.
+[Brownyx](https://brownyx.com) Cognitive Expansion Layer ([Brownyx](https://brownyx.com) CEL) is a project-specific cognitive architecture concept authored by Vitalii Nemchenko.
 
-Copyright © 2026 Vitaly Nemchenko.
+Copyright © 2026 Vitalii Nemchenko.
 
 This repository is a documentation-only defensive publication.
 
@@ -32,7 +32,7 @@ It is not a claim that [Brownyx](https://brownyx.com) is conscious, sentient, al
 When referencing this work, please use:
 
 ```text
-Brownyx Cognitive Expansion Layer (Brownyx CEL), Vitaly Nemchenko, 2026.
+Brownyx Cognitive Expansion Layer (Brownyx CEL), Vitalii Nemchenko, 2026.
 ```
 
 ## Defensive Publication Purpose

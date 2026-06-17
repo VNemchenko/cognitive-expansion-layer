@@ -1,6 +1,6 @@
 # [Brownyx](https://brownyx.com) Cognitive Expansion Layer: A Bounded Architecture for Expanding Synthetic Mind Reasoning
 
-**Author:** Vitaly Nemchenko  
+**Author:** Vitalii Nemchenko  
 **Project:** [Brownyx](https://brownyx.com) Mind  
 **Concept:** [Brownyx](https://brownyx.com) Cognitive Expansion Layer ([Brownyx](https://brownyx.com) CEL)  
 **Initial public version:** v0.1.0  
