@@ -32,6 +32,16 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="sitemap" type="application/xml" href="sitemap.xml">
   <link rel="alternate" type="text/markdown" href="llms.txt" title="LLM-readable site summary">
+  <link rel="api-catalog" href="/.well-known/api-catalog">
+  <link rel="service-doc" href="https://cel.brownyx.com/">
+  <link rel="service-doc" href="https://cel.brownyx.com/cel-specification.md">
+  <link rel="service-doc" href="https://cel.brownyx.com/architecture.md">
+  <link rel="service-doc" href="https://cel.brownyx.com/faq.md">
+  <link rel="describedby" href="https://cel.brownyx.com/llms.txt" type="text/markdown">
+  <link rel="describedby" href="https://cel.brownyx.com/architecture.md" type="text/markdown">
+  <link rel="authorization" href="/.well-known/oauth-authorization-server.json">
+  <link rel="resource-metadata" href="/.well-known/oauth-protected-resource.json">
+  <link rel="openid-configuration" href="/.well-known/openid-configuration.json">
 
   <script type="application/ld+json">
   {
@@ -389,5 +399,65 @@
       Brownyx Cognitive Expansion Layer · Documentation-only defensive publication · © 2026 Vitalii Nemchenko
     </div>
   </footer>
+  <script>
+  if (typeof navigator !== 'undefined' && navigator.modelContext) {
+    navigator.modelContext.registerTool({
+      name: 'get_cel_overview',
+      description: 'Return the Brownyx Cognitive Expansion Layer overview including core concept, strategy ladder, and purpose.',
+      inputSchema: { type: 'object', properties: {} },
+      execute: async () => {
+        return {
+          name: 'Brownyx Cognitive Expansion Layer',
+          concept: 'A bounded cognitive expansion architecture for persistent synthetic mind runtimes.',
+          rule: 'Direct reasoning first. Cognitive expansion only when justified. Bisociation only as a late-stage strategy. Clear synthesis always last.',
+          steps: ['Context Sufficiency', 'Intent Clarification', 'Frame Switching', 'Contradiction Detection', 'Hypothesis Generation', 'Self-Model Tension', 'Question Generation', 'Analogy', 'Bisociation', 'Synthesis']
+        };
+      }
+    });
+
+    navigator.modelContext.registerTool({
+      name: 'list_cel_docs',
+      description: 'List all available Brownyx CEL documentation pages with their URLs and descriptions.',
+      inputSchema: { type: 'object', properties: {} },
+      execute: async () => {
+        return [
+          { title: 'CEL Specification', url: 'https://cel.brownyx.com/cel-specification.md', description: 'Technical specification and constraints' },
+          { title: 'Architecture', url: 'https://cel.brownyx.com/architecture.md', description: 'Runtime position and component design' },
+          { title: 'Prior Art and Positioning', url: 'https://cel.brownyx.com/prior-art-and-positioning.md', description: 'Relationship to existing research' },
+          { title: 'Implementation Boundaries', url: 'https://cel.brownyx.com/implementation-boundaries.md', description: 'What this repository does and does not contain' },
+          { title: 'IP and Publication Strategy', url: 'https://cel.brownyx.com/ip-strategy.md', description: 'Defensive publication and IP considerations' },
+          { title: 'Terminology', url: 'https://cel.brownyx.com/terminology.md', description: 'Project-specific definitions' },
+          { title: 'FAQ', url: 'https://cel.brownyx.com/faq.md', description: 'Frequently asked questions' }
+        ];
+      }
+    });
+
+    navigator.modelContext.registerTool({
+      name: 'search_cel_docs',
+      description: 'Search the Brownyx CEL documentation for a specific topic or keyword.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          query: { type: 'string', description: 'The topic or keyword to search for in the CEL documentation' }
+        },
+        required: ['query']
+      },
+      execute: async (params) => {
+        const docs = [
+          { title: 'CEL Specification', url: 'https://cel.brownyx.com/cel-specification.md', keywords: 'specification, constraints, technical, requirements' },
+          { title: 'Architecture', url: 'https://cel.brownyx.com/architecture.md', keywords: 'architecture, runtime, components, design' },
+          { title: 'Prior Art', url: 'https://cel.brownyx.com/prior-art-and-positioning.md', keywords: 'research, positioning, related work' },
+          { title: 'Implementation Boundaries', url: 'https://cel.brownyx.com/implementation-boundaries.md', boundaries: 'scope, boundaries, what is included' },
+          { title: 'IP Strategy', url: 'https://cel.brownyx.com/ip-strategy.md', keywords: 'ip, patent, strategy, defensive publication' },
+          { title: 'Terminology', url: 'https://cel.brownyx.com/terminology.md', keywords: 'definitions, terms, glossary' },
+          { title: 'FAQ', url: 'https://cel.brownyx.com/faq.md', keywords: 'questions, answers, common' }
+        ];
+        const q = params.query.toLowerCase();
+        const matches = docs.filter(d => d.title.toLowerCase().includes(q) || d.keywords.includes(q));
+        return matches.length > 0 ? matches : { message: 'No matching documents found. Try browsing the full list.', allDocs: docs };
+      }
+    });
+  }
+  </script>
 </body>
 </html>

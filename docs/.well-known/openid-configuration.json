@@ -1,0 +1,9 @@
+{
+  "issuer": "https://cel.brownyx.com",
+  "authorization_endpoint": "https://cel.brownyx.com/.well-known/openid-configuration",
+  "token_endpoint": "https://cel.brownyx.com/.well-known/openid-configuration",
+  "jwks_uri": "https://cel.brownyx.com/.well-known/openid-configuration",
+  "grant_types_supported": [],
+  "response_types_supported": [],
+  "subject_types_supported": []
+}

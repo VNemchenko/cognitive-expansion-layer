@@ -1,0 +1,21 @@
+{
+  "serverInfo": {
+    "name": "brownyx-cel",
+    "version": "1.0.0"
+  },
+  "transport": {
+    "type": "streamable-http",
+    "endpoint": "https://cel.brownyx.com/mcp"
+  },
+  "capabilities": {
+    "tools": {
+      "listChanged": false
+    },
+    "resources": {
+      "listChanged": false
+    },
+    "prompts": {
+      "listChanged": false
+    }
+  }
+}

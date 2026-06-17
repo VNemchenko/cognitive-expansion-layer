@@ -1,0 +1,13 @@
+{
+  "issuer": "https://cel.brownyx.com",
+  "authorization_endpoint": "https://cel.brownyx.com/.well-known/oauth-authorization-server",
+  "token_endpoint": "https://cel.brownyx.com/.well-known/oauth-authorization-server",
+  "jwks_uri": "https://cel.brownyx.com/.well-known/oauth-authorization-server",
+  "grant_types_supported": [],
+  "response_types_supported": [],
+  "agent_auth": {
+    "register_uri": null,
+    "identity_types_supported": [],
+    "credential_types_supported": []
+  }
+}

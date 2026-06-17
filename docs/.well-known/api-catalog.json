@@ -1,0 +1,59 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://cel.brownyx.com/",
+      "rel": [
+        {
+          "rel": "service-doc",
+          "href": "https://cel.brownyx.com/",
+          "type": "text/html",
+          "title": "Brownyx CEL Documentation"
+        },
+        {
+          "rel": "describedby",
+          "href": "https://cel.brownyx.com/llms.txt",
+          "type": "text/markdown",
+          "title": "LLM-readable site summary"
+        }
+      ]
+    },
+    {
+      "anchor": "https://cel.brownyx.com/cel-specification.md",
+      "rel": [
+        {
+          "rel": "service-doc",
+          "href": "https://cel.brownyx.com/cel-specification.md",
+          "type": "text/markdown",
+          "title": "CEL Technical Specification"
+        },
+        {
+          "rel": "describedby",
+          "href": "https://cel.brownyx.com/cel-specification.md",
+          "type": "text/markdown"
+        }
+      ]
+    },
+    {
+      "anchor": "https://cel.brownyx.com/architecture.md",
+      "rel": [
+        {
+          "rel": "service-doc",
+          "href": "https://cel.brownyx.com/architecture.md",
+          "type": "text/markdown",
+          "title": "Architecture Documentation"
+        }
+      ]
+    },
+    {
+      "anchor": "https://cel.brownyx.com/faq.md",
+      "rel": [
+        {
+          "rel": "service-doc",
+          "href": "https://cel.brownyx.com/faq.md",
+          "type": "text/markdown",
+          "title": "Frequently Asked Questions"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "link-headers",
+      "type": "skill-md",
+      "description": "Add Link response headers to your homepage for agent discovery per RFC 8288 and RFC 9727.",
+      "url": "https://isitagentready.com/.well-known/agent-skills/link-headers/SKILL.md",
+      "digest": "sha256:placeholder"
+    },
+    {
+      "name": "dns-aid",
+      "type": "skill-md",
+      "description": "Publish DNS for AI Discovery (DNS-AID) records for DNS-based agent discovery.",
+      "url": "https://isitagentready.com/.well-known/agent-skills/dns-aid/SKILL.md",
+      "digest": "sha256:placeholder"
+    },
+    {
+      "name": "markdown-negotiation",
+      "type": "skill-md",
+      "description": "Return HTML responses as markdown when agents request it via Accept: text/markdown.",
+      "url": "https://isitagentready.com/.well-known/agent-skills/markdown-negotiation/SKILL.md",
+      "digest": "sha256:placeholder"
+    },
+    {
+      "name": "api-catalog",
+      "type": "skill-md",
+      "description": "Publish an API catalog for automated API discovery per RFC 9727.",
+      "url": "https://isitagentready.com/.well-known/agent-skills/api-catalog/SKILL.md",
+      "digest": "sha256:placeholder"
+    },
+    {
+      "name": "oauth-discovery",
+      "type": "skill-md",
+      "description": "Publish OAuth/OIDC discovery metadata so agents can authenticate with your APIs.",
+      "url": "https://isitagentready.com/.well-known/agent-skills/oauth-discovery/SKILL.md",
+      "digest": "sha256:placeholder"
+    },
+    {
+      "name": "oauth-protected-resource",
+      "type": "skill-md",
+      "description": "Publish OAuth Protected Resource Metadata so agents can discover how to authenticate.",
+      "url": "https://isitagentready.com/.well-known/agent-skills/oauth-protected-resource/SKILL.md",
+      "digest": "sha256:placeholder"
+    },
+    {
+      "name": "auth-md",
+      "type": "skill-md",
+      "description": "Publish Auth.md metadata for agent registration.",
+      "url": "https://isitagentready.com/.well-known/agent-skills/auth-md/SKILL.md",
+      "digest": "sha256:placeholder"
+    },
+    {
+      "name": "mcp-server-card",
+      "type": "skill-md",
+      "description": "Publish an MCP Server Card for agent discovery per SEP-1649.",
+      "url": "https://isitagentready.com/.well-known/agent-skills/mcp-server-card/SKILL.md",
+      "digest": "sha256:placeholder"
+    },
+    {
+      "name": "agent-skills",
+      "type": "skill-md",
+      "description": "Publish an agent skills discovery index per the Agent Skills Discovery RFC v0.2.0.",
+      "url": "https://isitagentready.com/.well-known/agent-skills/agent-skills/SKILL.md",
+      "digest": "sha256:placeholder"
+    },
+    {
+      "name": "webmcp",
+      "type": "skill-md",
+      "description": "Support WebMCP to expose site tools to AI agents via the browser.",
+      "url": "https://isitagentready.com/.well-known/agent-skills/webmcp/SKILL.md",
+      "digest": "sha256:placeholder"
+    }
+  ]
+}
